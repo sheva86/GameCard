@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameCard</string>
+    <string name="my_str">study String Resk</string>
+    <string name="btn_quotations">Show Quotation</string>
+</resources>
